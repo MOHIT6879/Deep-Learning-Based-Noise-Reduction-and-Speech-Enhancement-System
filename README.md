@@ -69,7 +69,6 @@ Our preprocessing will output 0.5 sec STFT spectrogram, and we accumulate 1 sec 
 
 # How to prepare the dataset? 
 - NC: Please check [NC's repo](https://github.com/qqq89513/NOISE_CLASSIFIER).
-- DDAE: Download our pre-prepared dataset from [Google Drive](https://drive.google.com/file/d/1eiRYFSOqBTPAJabmzAV5s0pQaqCE-OVg/view?usp=sharing) and unzip it to the root directory of the repo. Then run the `prepare_data.py`.
 
 
 # Results
